@@ -1,7 +1,7 @@
 A Python application that syncs with Dropbox to download your Day One entries and allows editing/adding of entries, including location and weather metadata using Google Maps and OpenWeatherMap.
 
 #Setup
-1. Install package prerequisites: 
+1. Install package prerequisites
 Alternatively,
 
 - dropbox
