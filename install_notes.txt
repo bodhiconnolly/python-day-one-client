@@ -1,0 +1,26 @@
+################################################################
+
+Day One Python Client v1.0 - Install Notes:
+
+REQUIRED PACKAGES:
+	dropbox
+	wx
+	pygeocoder
+
+OPTIONAL PACKAGES:
+	VideoCapture (Windows only)
+
+	
+To run the program, simply open the file 'day_one.py'
+
+To do a "fresh start", delete all files in the 'entries' 
+and 'photos' folder, and delete all text in the 'cursor.txt' 
+file. This will have been done on distribution. Upon a fresh 
+start, there may be some delay while the program downloads 
+entries from Dropbox, depending on the number of entries.
+
+
+Developed using Windows 8.1 and Python 2.7.6
+by Bodhi Connolly s4359741 in 2014 for CSSE1001
+
+################################################################

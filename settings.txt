@@ -1,0 +1,1 @@
+{'dropbox_path':'/Apps/Day One/Journal.dayone/entries','sub_dir':'entries','db_code':'[AUTH CODE]'}
