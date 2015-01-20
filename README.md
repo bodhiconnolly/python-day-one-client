@@ -2,7 +2,6 @@ A Python application that syncs with Dropbox to download your Day One entries an
 
 #Setup
 1. Install package prerequisites
-Alternatively,
 
 - dropbox
 - wx
