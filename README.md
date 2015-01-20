@@ -21,4 +21,4 @@ and 'photos' folder, and delete all text in the 'cursor.txt'
 file. This will have been done on distribution.
 	
 Developed using Windows 8.1 and Python 2.7.6
-by Bodhi Connolly s4359741 in 2014 for CSSE1001
+by Bodhi Connolly in 2014 for CSSE1001
